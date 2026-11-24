@@ -1,0 +1,6 @@
+{
+  "name": "VCF Contact Converter & Cleaner",
+  "description": "Professional tool to clean, format, convert phone numbers and names to VCF format with +98 country code, bulk paste, and direct device contacts integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
